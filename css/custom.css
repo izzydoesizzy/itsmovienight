@@ -1,0 +1,10 @@
+/* Add here all your CSS customizations */
+
+
+.navbarlogo {
+	margin-top: 30px;
+	color:white;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.5em;
+}
