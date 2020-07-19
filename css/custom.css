@@ -8,3 +8,19 @@
 	font-weight: bold;
 	font-size: 1.5em;
 }
+
+#pricingpadding {
+	padding-top: 30px;
+}
+
+.spacer-25 {
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+.pricing-block .plan-price .price .price-unit-2 {
+    font-size: 50%;
+    line-height: 1.4;
+    color:#bbb;
+    font-weight:300;
+}
